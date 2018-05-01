@@ -13,6 +13,6 @@
 ### Design for Wellbeing
 
 ### Design for Another World 
-[A Day at the Beach] (https://medium.com/@dowdtd16/a-night-at-the-boardwalk-9e838cb08a29)
+[A Day at the Beach](https://medium.com/@dowdtd16/a-night-at-the-boardwalk-9e838cb08a29)
 ### About the Author
 
