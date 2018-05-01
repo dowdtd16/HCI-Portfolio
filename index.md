@@ -2,7 +2,7 @@
 
 ### Design Manefesto
 ##### [Design Manefesto](https://dowdtd16.github.io/HCI-Design-Manefesto/)
-This is a reflection of the design process over the course of all of the projects.  It discusses how I went through the design process with all of the projects this term.
+This is a reflection of the design process over the course of the term for all of the projects.  It discusses how I went through the design process with all of the projects this term.
 
 ### Good and Bad Design
 ##### [The Tutoring Wedge](https://medium.com/@dowdtd16/the-tutoring-wedge-f828dadb1cbd)
