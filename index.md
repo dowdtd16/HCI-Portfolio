@@ -31,4 +31,5 @@ The goal of this project was to transport a user to a different world.  My team 
 
 ### About the Author
 ![author](http://athletics.wpi.edu/sports/mrowing/2017-18/photos/0001/Trevor_Dowd.jpg?max_width=160&max_height=210)
+
 Trevor Dowd is a sophmore at Worcester Polytechnic.  He is majoring in Computer Science and minoring in Profesional Writing.  These are his projects from Human Computer Interations from D-Term 2018.
