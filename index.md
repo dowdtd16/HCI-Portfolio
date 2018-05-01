@@ -5,8 +5,8 @@
 This is a reflection of the design process over the course of all of the projects.  It discusses how I went through the design process with all of the projects this term.
 
 ### Good and Bad Design
-####[The Tutoring Wedge](https://medium.com/@dowdtd16/the-tutoring-wedge-f828dadb1cbd)
-####[Not Enough Power](https://medium.com/@dowdtd16/not-enough-power-ea0a752ad60c)
+#### [The Tutoring Wedge](https://medium.com/@dowdtd16/the-tutoring-wedge-f828dadb1cbd)
+#### [Not Enough Power](https://medium.com/@dowdtd16/not-enough-power-ea0a752ad60c)
 The goal of this project was to identify places on the WPI campus that show good or bad design.  I selected the tutoring wedge at WPI as an example of good design, and the lack of outlets in the Campus Center as an example of bad design.
 
 ### Design for Others
